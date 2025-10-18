@@ -1,3 +1,11 @@
+### 🚀 Projects Worked On
+
+| Project Type | Technical Description |
+| :--- | :--- |
+| **AI-Powered BSM Platform (ACKERMANN)** | Developed a comprehensive Business Service Management (BSM) platform analogous to Jira, featuring a custom **if-then rule engine** for intelligent ticket routing and an **AI-driven, drag-and-drop workflow automation builder** for visual process design. |
+| **Decentralized FinTech App (CREDX)** | Designed a FinTech solution for a hackathon to provide credit scores for the "unbanked" using a **decentralized identity (DID)** system. The architecture uses **Verifiable Credentials (VCs)** and **Zero-Knowledge Proofs (ZKPs)** to ensure user privacy and data sovereignty. Also integrated a BSM-style ticketing system to manage user support. |
+| **Slack-Native AI Knowledge Assistant (In Progress)** | Currently developing a Slack-native AI assistant that connects to an internal knowledge base (like Confluence). The architecture uses an **LLM (OpenAI)** to perform **semantic search** on indexed documents. Features include slash commands (`/ask`, `/search`) for Q&A and document retrieval, leveraging Slack's native authentication for a seamless user experience. |
+| **Interactive Zen Garden Creator (NYXLY)** | Built a creative web application using **React** and the **HTML5 Canvas API** that allows users to design digital zen gardens. Implemented a full drag-and-drop interface from a component palette, real-time item manipulation (resize, rotate, move), and data persistence using local storage. |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hajirashariff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hajirashariff2005@gmail.com) 
