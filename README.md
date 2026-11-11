@@ -18,8 +18,4 @@
 
 ![](https://streak-stats.demolab.com/?user=hajirashariff&theme=neon&hide_border=false)
 
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=hajirashariff&theme=neon&hide_border=false&layout=compact&langs_count=8)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=hajirashariff&limit=5&theme=dark&combine_all_yearly_contributions=true)
